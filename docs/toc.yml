@@ -1,0 +1,8 @@
+items:
+- name: Пользовательская документация
+  href: testdoc.md
+  items:
+    - name: Визуализация
+      href: visual.md
+    - name: Моделирование
+      href: model.md

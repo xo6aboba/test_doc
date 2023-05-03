@@ -1,0 +1,23 @@
+items:
+- name: Пользовательская документация
+  href: index.md
+  items:
+      - name: Визуализация
+        href: 1visual.md
+        items:
+          - name: Просмотр
+            href: 11view.md
+          - name: Детализация
+            href: 12view1.md
+          - name: Историчность
+            href: 14structure.md
+          - name: Отображение метрик
+            href: 13metrics.md
+          - name: Добавление вакансии
+            hfef: 15vacantion.md
+          - name: Назначение руководителя
+            href: 16rukl.md
+          - name: Просмотр профиля сотрудника
+            href: 17empprofile.md
+      - name: Моделирование
+        href: model.md
